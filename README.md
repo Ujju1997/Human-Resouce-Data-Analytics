@@ -1,5 +1,8 @@
 # Project Name : HR Data Analytics
-  ![download](https://github.com/Ujju1997/HR-Data-Analytics/assets/30957185/f2e9b93c-291f-47b9-9d70-5245991140f5)
+  
+<p align="center">
+    <img src="https://community.nasscom.in/sites/default/files/media/images/HR-Analytics.jpg" alt="Logo" width="400" height="300">
+</p>
 
 
 ## Introduction
@@ -26,7 +29,7 @@ The following methodology was used to accomplish the project objectives:
 3. **Dashboard Creation:** A dashboard was created using Power BI to provide an interactive visualization of the data. The dashboard included various charts and graphs to display the data in an easy-to-understand format. 
 
 
-![DB Pic](https://github.com/Ujju1997/HR-Data-Analytics/assets/30957185/cfddf2c2-491e-4ce1-b467-e5304bcb15d2)
+
 
   
  <p>&nbsp;</p>
