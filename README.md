@@ -28,7 +28,7 @@ The following methodology was used to accomplish the project objectives:
 
 3. **Dashboard Creation:** A dashboard was created using Power BI to provide an interactive visualization of the data. The dashboard included various charts and graphs to display the data in an easy-to-understand format. 
 
-![Sample_User_interface](https://drive.google.com/uc?export=download&id=1VkiJqkZOu2d5LZy7Pq_lCjm8K6wbaZ2k)
+![Sample_User_interface](https://drive.google.com/uc?export=download&id=1NbLn9_DKz6navYuWccn-CdJtCYxGa9_k)
 
 
 
